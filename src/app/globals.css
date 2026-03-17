@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.dot-bg {
+  background-color: #212121;
+  background-image: radial-gradient(circle, #444 1px, rgba(0, 0, 0, 0) 1px);
+  background-size: 20px 20px;
+}
